@@ -8,7 +8,7 @@ Olá, eu trago para vocês um bot em TypeScript utilizando Discord.js e conectad
 -  Algum editor de texto, recomendo Bloco de Notas, [Notepad++](https://notepad-plus-plus.org/downloads/v8.5.2/) ou [Visual Studio Code](https://code.visualstudio.com) (para pessoas experientes).
 -  Uma aplicação no [Discord Developers](https://discord.com/developers/applications). ([Ajuda](#como-criar-uma-aplicação))
 -  Uma conta no [MongoDB Atlas](https://mongodb.com/).
-- Ter o programa [PNPM](https://pnpm.io/installation/) instalado.
+-  Ter o programa [PNPM](https://pnpm.io/installation/) instalado.
 
 ## Tutorial de Instalação
 
