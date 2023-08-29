@@ -12,7 +12,7 @@ Olá, eu trago para vocês um bot em TypeScript utilizando Discord.js e conectad
 
 Para usar este projeto você pode fazer um clone dele e seguir os seguintes passos:
 
-> Criar um conta e uma database no Mongo Atlas, que irei deixar um video mostrando como criar uma conta e database [CLique aqui](https://cdn.discordapp.com/attachments/1132437933597675641/1144341684923150508/Projects___Cloud__MongoDB_Cloud_Mozilla_Firefox_2023-08-24_15-41-49.mp4).
+> Criar um conta e uma database no Mongo Atlas, que irei deixar um video mostrando como criar uma conta e database [![Clique aqui](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Freprogramabr%2Fconectando-no-banco-de-dados-cloud-mongodb-atlas-bca63399693f&psig=AOvVaw3DcmpFflyLJh8V-7DDk6d7&ust=1693355032315000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDD0ZvNgIEDFQAAAAAdAAAAABAE)](https://cdn.discordapp.com/attachments/1132437933597675641/1144341684923150508/Projects___Cloud__MongoDB_Cloud_Mozilla_Firefox_2023-08-24_15-41-49.mp4).
 
 > Após isso renomeie o arquivo `.env-example` para `.env`, lá você colocará o token da sua aplicação e o link de conexão com o MongoDB!
 
